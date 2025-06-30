@@ -1,3 +1,5 @@
+Offensive Ethical Toolkit 🐾 by wtshex1
+
 ![926ED29A-FF9F-4201-803E-F1F22E592EB1](https://github.com/user-attachments/assets/e9704481-5fb2-43c7-8979-bd7040411d58)
 
 
