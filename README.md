@@ -1,13 +1,13 @@
-![926ED29A-FF9F-4201-803E-F1F22E592EB1](https://github.com/user-attachments/assets/4d8084c8-c6f0-4cdf-8368-26583554b48c)![Se încarcă 926ED29A-FF9F-4201-803E-F1F22E592EB1.png...]()
+![926ED29A-FF9F-4201-803E-F1F22E592EB1](https://github.com/user-attachments/assets/e9704481-5fb2-43c7-8979-bd7040411d58)
 
 
-## Descrie
-Acest script automatizează instrumentele de securitate ofensive pentru **etic** și **educaţional** utilizați numai. Orice utilizare neautorizată, ilegală sau rău intenţionată este strict interzisă şi poate avea consecutiv juridice.
+## Description
+This script automates offensive security tools for **ethical** and **educational** use only. Any unauthorized, illegal, or malicious use is strictly prohibited and may have legal consequences.
 
 ## Disclaimer
-Autorul este **nu responsabil** pentru orice daune, utilizare greșită sau problemă juridice care decurg din utilizarea necorespunzătoare a unui script de acest. Utilizări-l pe propriul risc și obțineți întrotdeauna autorizarea corespunzătoare înainte de a efectua orice testare de securitate.
+The author is **not responsible** for any damage, misuse, or legal issues arising from improper use of this script. Use it at your own risk and always obtain proper authorization before conducting any security testing.
 
-## Licenţă
-Acest proiect este licențiat sub licență MIT. Consultați fișierul LICENȚĂ pentru detalii.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
