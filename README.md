@@ -3,13 +3,13 @@
 
 
 
-## Descrie
-Acest script automatizează instrumentele de securitate ofensive pentru **etic** și **educaţional** utilizați numai. Orice utilizare neautorizată, ilegală sau rău intenţionată este strict interzisă şi poate avea consecutiv juridice.
+## Describe
+This script automates offensive security tools for **etic** and **educational** use only. Any unauthorised, illegal or malicious use is strictly prohibited and may have legal consequences.
 
 ## Disclaimer
-Autorul este **nu responsabil** pentru orice daune, utilizare greșită sau problemă juridice care decurg din utilizarea necorespunzătoare a unui script de acest. Utilizări-l pe propriul risc și obțineți întrotdeauna autorizarea corespunzătoare înainte de a efectua orice testare de securitate.
+The author is **not responsable** for any damages, misuse or legal problem arising from the improper use of a script of this. Use it at your own risk and always get appropriate authorization before performing any security testing.
 
-## Licenţă
-Acest proiect este licențiat sub licență MIT. Consultați fișierul LICENȚĂ pentru detalii.
+## Licensing
+This project is licensed under an MIT license. See the LICENSE file for details.
 
 ---
