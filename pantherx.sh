@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # PantherX - Offensive Toolkit 🐾
-# Version: 1.1
 
 # Color definitions
 GREEN='\033[1;32m'
@@ -16,8 +15,8 @@ echo "  / /_/ / __ \/ _ \     \  / __ \/ / / / __/ __/"
 echo " / ____/ /_/ /  __/     / / /_/ / /_/ / /_/ /_  "
 echo "/_/    \____/\___/     /_/\____/\__,_/\__/\__/  "
 echo -e "        PantherX Offensive Toolkit 🐾 v1.1"
-echo -e "        Author: wtshex1"
-echo -e "        License: Educational & Ethical Use Only${NC}\n"
+echo -e "        
+echo -e "        
 }
 
 # Tool status check
