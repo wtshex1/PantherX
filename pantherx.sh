@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # PantherX - Offensive Toolkit 🐾
-# Author: wtshex1
-# License: Educational & Ethical Use Only
 # Version: 1.1
 
 # Color definitions
