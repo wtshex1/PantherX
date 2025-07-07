@@ -2,7 +2,7 @@
 
 # PantherX - Offensive Toolkit 🐾
 # Author: wtshex1
-# License: Proprietary - Educational & Ethical Use Only
+# License: Educational & Ethical Use Only
 # Version: 1.1
 
 # Color definitions
